@@ -1,0 +1,19 @@
+body{
+    background-color: lightseagreen;
+}
+#page-title{
+    text-align: center;
+    font-family: "Avenir Next", sans-serif;
+}
+
+h2{
+    font-family: "Avenir Next Condensed", sans-serif;
+}
+
+#main-img{
+    display: block;
+    width: 350px;
+    height: auto;
+    margin: 0 auto;
+    border: 5px solid white;
+}
